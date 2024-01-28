@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Jark-Wah Wong (@ajwongphd)
-- 🏫 I am currently a 5th yeah Ph.D. Chemical Engineering Student at Penn State under the advision of Dr. Mike Janik
+- 🏫 I am currently a 5th yeah Ph.D. Chemical Engineering Student at Penn State advised by Dr. Mike Janik
 - 👀 I’m interested in utilizing computational chemistry tools to advance renewable energy technologies, specifically in electrocatalysis
 - 🌱 I’m currently learning Density Functional Theory (DFT), Classical Molecular Dynamics (FF-MD), and more for my Ph.D research and gobbies!
 - 🧑‍💻 I hope to use github to share scripts and tools related to my research so anyone can use it for their research project :)
